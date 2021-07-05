@@ -1,4 +1,5 @@
-![cat](https://user-images.githubusercontent.com/67622600/116381467-e3a42400-a84f-11eb-9fa2-e4fdbdd66b2a.gif)
+<img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif"/>
+
 - 👋 Hi, I’m *Youjin Cha*
 - 👀 I’m interested in **Front-End Develop**
 - 🌱 I’m currently learning ```HTML```, ```CSS```, ```JavaScript```, ```Vue```, ```React```
