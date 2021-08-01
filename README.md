@@ -1,4 +1,4 @@
-# 👋 *안녕하세요, 차유진입니다!*
+# 👋 *Hello World! 차유진입니다*
 
 <img src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif" height="400px"/>
 
