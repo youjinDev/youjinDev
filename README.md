@@ -1,9 +1,4 @@
-# 👋 *Hello World! 차유진입니다*
-
-<img src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif" height="400px"/>
-
- 
-### *I’m currently learning...*
-
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60px" height="60px"/><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60px" height="60px"/><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60px" height="60px"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="60px" height="60px"/><img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="60px" height="60px"/><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60px" height="60px"/><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60px" height="60px"/>
-
+<div align=center>
+<p>Hello world 🖐🏻</p>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyoujinDev%2FyoujinDev&count_bg=%23E9EBE8&title_bg=%238443EB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
